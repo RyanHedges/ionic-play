@@ -46,6 +46,8 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <!-- Camera, Photos, input file -->
+    <!-- Was directed to add these, but they were already here -->
+    <!-- https://capacitor.ionicframework.com/docs/guides/ionic-framework-app/#android -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <!-- Geolocation API -->
